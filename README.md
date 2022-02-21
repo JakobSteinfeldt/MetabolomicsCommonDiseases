@@ -1,2 +1,30 @@
-# MetabolomicsCommonDiseases
-Downstream analysis for the paper "Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort". This repo is a python package for preprocessing UK Biobank data and preprocessing, training and evaluating the proposed MetabolomicStateModel score.
+<div align="center">
+
+⛑ **Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort** ⛑
+
+</div>
+
+## Description   
+Here we present the downstream analysis for the paper "Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort". Detailed instructions on the data preprocessing, model training and inference on new NMR data can be found [here](https://github.com/thbuerg/MetabolomicsCommonDiseases).
+
+We provide a ready-to-use [Google colab notebook](https://colab.research.google.com/github/thbuerg/MetabolomicsCommonDiseases/blob/main/analysis/examples/MetabolomicsInference.ipynb) with a trained version of our MetabolomicStateModel. Upload your dataset of Nightingale NMR metabolomics and run the model!
+**NOTE**: Data must be provided in [this format](https://github.com/thbuerg/MetabolomicsCommonDiseases/blob/main/analysis/examples/sample.csv).
+
+## Content
+This repository contains code to aggregate and process metabolomics states (1_preparation) and reproduce the analyses (2_analyses) in the [UK Biobank](https://www.ukbiobank.ac.uk/).
+
+- Aggregating the metabolomic states from models on the 22 independent recruitment centres of the UK Biobank.
+- Standardizing and evaluating the metabolomic states by fitting linear COX Proportional Hazard models.
+- Analyzing the discriminative performance and potential clinical utility with decision curves.
+- Reproducing the visualization and analyses presented in this paper. 
+
+## Citation   
+```
+@article{thisonecoolstory,
+  title={Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort},
+  author={Thore Buergel, Jakob Steinfeldt},
+  journal={tbd},
+  year={2022}
+}
+```  
+
