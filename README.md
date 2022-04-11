@@ -1,7 +1,11 @@
 <div align="center">
 
 ⛑ **Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort** ⛑
+  
 
+[![Paper](https://img.shields.io/badge/Paper-tbd-red)](https://www.nature.com/articles/nature14539)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6200202.svg)](https://doi.org/10.5281/zenodo.6200202)
+  
 </div>
 
 ## Description   
