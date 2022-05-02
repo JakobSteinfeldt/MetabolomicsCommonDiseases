@@ -1,7 +1,5 @@
 <div align="center">
 
-![Logo](./src/msm_logo.png?raw=true "Logo")
-
 ⛑ **Metabolomic profiles predict individual multi-disease outcomes** ⛑
 
 [comment]: <> (<!--)
