@@ -1,6 +1,6 @@
 <div align="center">
 
-⛑ **Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort** ⛑
+⛑ **Metabolomic profiles predict individual multi-disease outcomes** ⛑
   
 
 [![Paper](https://img.shields.io/badge/Paper-tbd-red)](https://www.nature.com/articles/nature14539)
@@ -9,7 +9,7 @@
 </div>
 
 ## Description   
-Here we present the downstream analysis for the paper "Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort". Detailed instructions on the data preprocessing, model training and inference on new NMR data can be found [here](https://github.com/thbuerg/MetabolomicsCommonDiseases).
+Here we present the downstream analysis for the paper "Metabolomic profiles predict individual multi-disease outcomes". Detailed instructions on the data preprocessing, model training and inference on new NMR data can be found [here](https://github.com/thbuerg/MetabolomicsCommonDiseases).
 
 We provide a ready-to-use [Google colab notebook](https://colab.research.google.com/github/thbuerg/MetabolomicsCommonDiseases/blob/main/analysis/examples/MetabolomicsInference.ipynb) with a trained version of our MetabolomicStateModel. Upload your dataset of Nightingale NMR metabolomics and run the model!
 **NOTE**: Data must be provided in [this format](https://github.com/thbuerg/MetabolomicsCommonDiseases/blob/main/analysis/examples/sample.csv).
@@ -25,7 +25,7 @@ This repository contains code to aggregate and process metabolomics states (1_pr
 ## Citation   
 ```
 @article{thisonecoolstory,
-  title={Metabolomic profiles predict individual multi-disease outcomes in the UK Biobank cohort},
+  title={Metabolomic profiles predict individual multi-disease outcomes},
   author={Thore Buergel, Jakob Steinfeldt},
   journal={tbd},
   year={2022}
