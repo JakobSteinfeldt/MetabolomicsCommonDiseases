@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbuerg/MetabolomicsCommonDiseases/blob/main/analysis/examples/MetabolomicsInference.ipynb)
 [![Paper](https://img.shields.io/badge/Paper-tbd-red)](https://www.nature.com/articles/nature14539)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6200202.svg)](https://doi.org/10.5281/zenodo.6200202)
-![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
+[![License]](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
 
 [comment]: <> (-->)
 
