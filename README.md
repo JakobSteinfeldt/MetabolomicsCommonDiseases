@@ -29,11 +29,15 @@ This repository contains code to aggregate and process metabolomics states (1_pr
 
 ## Citation   
 ```
-@article{thisonecoolstory,
-  title={Metabolomic profiles predict individual multi-disease outcomes},
-  author={Thore Buergel, Jakob Steinfeldt},
-  journal={tbd},
-  year={2022}
+@article{buergel2022metabolomic,
+  title={Metabolomic profiles predict individual multidisease outcomes},
+  author={Buergel, Thore and Steinfeldt, Jakob and Ruyoga, Greg and Pietzner, Maik and Bizzarri, Daniele and Vojinovic, Dina and Upmeier zu Belzen, Julius and Loock, Lukas and Kittner, Paul and Christmann, Lara and others},
+  journal={Nature Medicine},
+  volume={28},
+  number={11},
+  pages={2309--2320},
+  year={2022},
+  publisher={Nature Publishing Group US New York}
 }
 ```  
 
