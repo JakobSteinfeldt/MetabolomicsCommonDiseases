@@ -5,7 +5,7 @@
 [comment]: <> (<!--)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbuerg/MetabolomicsCommonDiseases/blob/main/analysis/examples/MetabolomicsInference.ipynb)
-[![Paper](https://img.shields.io/badge/Paper-tbd-red)](https://www.nature.com/articles/nature14539)
+[![Paper](https://img.shields.io/badge/Nature Medicine)]([https://www.nature.com/articles/nature14539](https://www.nature.com/articles/s41591-022-01980-3))
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6200202.svg)](https://doi.org/10.5281/zenodo.6200202)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
